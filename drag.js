@@ -23,4 +23,5 @@
 */
  function add(obj){
      document.createElement("obj");
+     console.log(111);
  }
